@@ -1,7 +1,7 @@
 import React from "react";
 import { contactDetails } from '../Mockdata/getintouch'
 
-const GetinTouch = () => {
+const GetInTouch = () => {
   return (
     <div className="px-4 py-8">
       {/* Header */}
@@ -72,4 +72,4 @@ const Textarea = ({ label, ...props }) => (
   </div>
 );
 
-export default GetinTouch;
+export default GetInTouch;

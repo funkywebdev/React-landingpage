@@ -4,7 +4,7 @@ import Hero from './components/Hero'
 import NumberCounter from './components/NumberCounter'
 import WhyTechpro from './components/WhyTechpro'
 import AvailableCourses from './components/AvailableCourses'
-import GetinTouch from './components/GetinTouch'
+import GetInTouch from './components/GetInTouch'
 import WhatOurStudent from './components/WhatOurStudent'
 import TechCareer from './components/TechCareer'
 import Footer from './components/Footer'
@@ -18,7 +18,7 @@ const App = () => {
       <WhyTechpro />
       <AvailableCourses />
       <WhatOurStudent />
-      <GetinTouch />
+      <GetInTouch/>
       <TechCareer />
       <Footer />
     </div>
